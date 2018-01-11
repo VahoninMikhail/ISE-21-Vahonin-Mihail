@@ -68,6 +68,7 @@ artifacts/
 *.pidb
 *.svclog
 *.scc
+1LABA
 
 git rm --cached --ignore-unmatch 1LABA
 git commit -am "Message"
