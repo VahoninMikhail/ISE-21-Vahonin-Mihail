@@ -69,6 +69,10 @@ artifacts/
 *.svclog
 *.scc
 
+git rm --cached --ignore-unmatch 1LABA
+git commit -am "Message"
+git push origin {master}
+
 # Chutzpah Test files
 _Chutzpah*
 
