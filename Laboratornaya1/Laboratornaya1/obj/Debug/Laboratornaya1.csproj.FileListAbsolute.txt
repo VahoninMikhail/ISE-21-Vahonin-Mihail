@@ -1,0 +1,9 @@
+D:\Программы\Laboratornaya1\Laboratornaya1\bin\Debug\Laboratornaya1.exe.config
+D:\Программы\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.csprojResolveAssemblyReference.cache
+D:\Программы\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.F_orm1.resources
+D:\Программы\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.Properties.Resources.resources
+D:\Программы\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.csproj.GenerateResource.Cache
+D:\Программы\Laboratornaya1\Laboratornaya1\bin\Debug\Laboratornaya1.exe
+D:\Программы\Laboratornaya1\Laboratornaya1\bin\Debug\Laboratornaya1.pdb
+D:\Программы\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.exe
+D:\Программы\Laboratornaya1\Laboratornaya1\obj\Debug\Laboratornaya1.pdb
